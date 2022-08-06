@@ -11,6 +11,8 @@ public class Test {
         System.out.println("Conflict resolved");
 
         System.out.println("Changes made for push command demo");
+
+        System.out.println("Changes made for GitHub Push Branch demo");
 >>>>>>> mod
         
     }
