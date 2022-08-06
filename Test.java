@@ -9,6 +9,8 @@ public class Test {
         System.out.println("File modified in mod branch");
         System.out.println("New line included");
         System.out.println("Conflict resolved");
+
+        System.out.println("Changes made for push command demo");
 >>>>>>> mod
         
     }
