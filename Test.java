@@ -8,6 +8,8 @@ public class Test {
 =======
         System.out.println("File modified in mod branch");
         System.out.println("New line included");
+        System.out.println("Conflict resolved");
 >>>>>>> mod
+        
     }
 }
