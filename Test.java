@@ -4,5 +4,6 @@ public class Test {
         
         System.out.println("Welcome to Git!! This is our First Project.");
         System.out.println("File modified in mod branch");
+        System.out.println("New line included");
     }
 }
